@@ -33,7 +33,11 @@ Ejecutar `Rscript socio-e_inegi_fa.R` ó cargar y ejecutar en RStudio.
 
 
 ## Requisitos
-[Archivo requirements.txt](requirements.txt)
+tidyverse==1.3.2
+stringr==1.4.1
+psych==2.2.9 
+GPArotation==2022.10-2
+car==3.1-1 
 
 ### Lista de archivos
 [socio-e_inegi_fa.R](socio-e_inegi_fa.R): Código R/RStudio para generar los indicadores socioeconómicos.
