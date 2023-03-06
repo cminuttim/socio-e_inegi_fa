@@ -55,5 +55,3 @@ Ejecutar `Rscript socio-e_inegi_fa.R` ó cargar y ejecutar en RStudio.
 [idh-2015.csv](idh-2015.csv): Datos del Índice de Desarrollo Humano Municipal 2015 (PNUD).
 
 
-### Repositorio alternativo
-[https://github.com/cminuttim/socio-e_inegi_fa](https://github.com/cminuttim/socio-e_inegi_fa)
