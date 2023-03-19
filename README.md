@@ -67,7 +67,7 @@ car==3.1-1
 @software{socio-e_inegi_fa,
   title = {{Desarrollo de indicadores socioeconómicos para el análisis de datos de salud en la Ciudad de México}},
   author = {Carlos Minutti},
-  url = {https://github.com/cminuttim/socio-e_inegi_fa/}
+  url = {https://github.com/cminuttim/socio-e_inegi_fa/},
   month = {3},
   year = {2023},
   version = {0.1},
