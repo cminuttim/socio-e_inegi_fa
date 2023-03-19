@@ -64,14 +64,14 @@ car==3.1-1
 ## Cita
 
 Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
-```
+```bibtex
 @misc{socio-e_inegi_fa,
   author = {Carlos Minutti},
   title = {Desarrollo de indicadores socioeconómicos para el análisis de datos de salud en la Ciudad de México},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cminuttim/socio-e_inegi_fa/}},
+  howpublished = {\url{https://github.com/cminuttim/socio-e_inegi_fa}},
 }
 ```
 
