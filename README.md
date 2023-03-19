@@ -61,3 +61,16 @@ car==3.1-1
 [idh-2015.csv](idh-2015.csv): Datos del Índice de Desarrollo Humano Municipal 2015 (PNUD).
 
 
+# Citar
+
+```bibtex
+@software{socio-e_inegi_fa,
+  title = {{Desarrollo de indicadores socioeconómicos para el análisis de datos de salud en la Ciudad de México}},
+  author = {Carlos Minutti},
+  url = {https://github.com/cminuttim/socio-e_inegi_fa/}
+  month = {3},
+  year = {2023},
+  version = {0.1},
+}
+```
+
